@@ -1,0 +1,8 @@
+babel.config.js
+components/StyledText.js
+components/TabBarIcon.js
+screens/HomeScreen.js
+navigation/AppNavigator.js
+constants/Layout.js
+App.js
+__tests__/App-test.js
