@@ -6,7 +6,7 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "eject": "expo eject",
-    "test": "jest --watch false"
+    "test": "jest --watch false",
     "lint": "eslint *.js **/*.js"
   },
   "jest": {
